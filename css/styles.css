@@ -3,19 +3,19 @@
 }
 
 body {
-  background-color: #f8f9fa;
+  background-color: #e4e4e4;
 }
 
 h1 {
   font-family: 'Patrick Hand SC', cursive, serif;
   font-size: 3em;
-  text-shadow: 1px 1px #138496;
+  text-shadow: 1px 2px #138496;
 }
 
 h2 {
   font-family: 'Roboto Condensed', sans-serif;
   font-size: 2em;
-  text-shadow: 1px 1px #d3d3d3;
+  text-shadow: 1px 2px #adadad;
 }
 
 /* Navigation Bar and Banner */
@@ -32,17 +32,19 @@ h2 {
 }
 
 .active {
-  background-color: #17a2b8 !important;
-  border-bottom: 1px solid #17a2b8 !important;
-  color: #ffffff !important;
+  background-color: #8cced8 !important;
+  border-bottom: 1px solid #8cced8 !important;
+  color: #f9f9fa !important;
 }
 
 .nav-link:hover {
-  color: #17a2b8;
+  background-color: #138496 !important;
+  border-bottom: 1px solid #8cced8 !important;
+  color: #f9f9fa !important;
 }
 
 .jumbotron {
-  background-color: #17a2b8;
+  background-color: #8cced8;
   border-radius: 0;
   text-align: center;
 }
@@ -65,12 +67,36 @@ h2 {
   text-align: center;
 }
 
-.bg-dark {
-  color: #ffffff;
+.bg-commandline {
+  background-color: #adadad;
+}
+
+.bg-general {
+  background-color: #8cced8;
+}
+
+.bg-atom {
+  background-color: #5fb57d;
+}
+
+.bg-goodhabits {
+  background-color: #a978fd;
+}
+
+.bg-htmlcss {
+  background-color: #2e92fd;
+}
+
+.bg-jsjquery {
+  background-color: #ffd75e;
+}
+
+.bg-comprehension {
+  background-color: #fd5969;
 }
 
 .panel-body {
-  background-color: #d3d3d3;
+  background-color: #f9f9fa;
   padding: .5em 1em;
 }
 
