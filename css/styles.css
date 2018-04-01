@@ -2,8 +2,17 @@
   font-family: 'Roboto', sans-serif;
 }
 
+a {
+  color: #138496;
+}
+
+a:hover {
+  color: #138496;
+}
+
 body {
   background-color: #e4e4e4;
+  min-width: 300px;
 }
 
 h2 {
