@@ -16,10 +16,10 @@ h2 {
 }
 
 h3 {
-  font-family: 'Roboto Condensed', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-size: 1.2em;
 }
-
+/* Navigation Bar and Banner */
 .nav {
   margin-top: 1em;
 }
@@ -47,6 +47,11 @@ h3 {
   text-align: center;
 }
 
+.jumbotron h3 {
+  font-family: 'Roboto Condensed', sans-serif;
+  font-style: italic;
+}
+/* Body */
 .panel {
   margin: 1em auto;
 }
@@ -55,6 +60,7 @@ h3 {
   font-family: 'Roboto', sans-serif;
   font-size: 1.5em;
   padding: .5em;
+  text-align: center;
 }
 
 .panel-body {
@@ -67,7 +73,7 @@ h3 {
   margin: 2em auto;
   width: 40%;
 }
-
+/* Footer */
 footer {
   font-size: .9em;
   text-align: center;
