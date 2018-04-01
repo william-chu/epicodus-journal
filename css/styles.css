@@ -1,18 +1,33 @@
+* {
+  font-family: 'Roboto', sans-serif;
+}
+
 h1 {
   font-family: 'Reenie Beanie', cursive, serif;
   font-size: 4em;
+  font-weight: bold;
 }
 
 h3 {
   font-family: 'Roboto Condensed', sans-serif;
-  font-size: 1.5em;
+  font-size: 1.3em;
   font-style: italic;
+}
+
+.nav-link {
+  color: black;
+}
+
+.nav-link:hover {
+  color: blue;
 }
 
 .jumbotron {
   border-radius: 0;
+  text-align: center;
 }
 
-.footer {
+footer {
+  font-size: .9em;
   text-align: center;
 }
