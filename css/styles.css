@@ -2,14 +2,6 @@
   font-family: 'Roboto', sans-serif;
 }
 
-a {
-  color: #138496;
-}
-
-a:hover {
-  color: #138496;
-}
-
 body {
   background-color: #e4e4e4;
   min-width: 350px;
@@ -36,6 +28,14 @@ h5 {
   padding: .2em 0;
 }
 
+p a {
+  color: #138496;
+}
+
+p a:hover {
+  color: #138496;
+}
+
 /* Navigation Bar and Banner */
 .nav {
   margin-top: 1em;
@@ -49,21 +49,22 @@ h5 {
   border-radius: 0;
 }
 
-.active {
-  background-color: #8cced8 !important;
-  border-bottom: 1px solid #8cced8 !important;
-  color: #f9f9fa !important;
+.nav-link:hover {
+  background-color: #6cbfcc !important;
+  border-bottom: 1px solid #6cbfcc !important;
+  color: #fff !important;
 }
 
-.nav-link:hover {
-  background-color: #138496 !important;
+.active, .active:hover {
+  background-color: #8cced8 !important;
   border-bottom: 1px solid #8cced8 !important;
-  color: #f9f9fa !important;
+  color: #000 !important;
 }
 
 .jumbotron {
-  background-color: #8cced8;
+  background: radial-gradient(circle, #fff, #8cced8, #8cced8);
   border-radius: 0;
+  box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
   text-align: center;
 }
 
