@@ -146,6 +146,11 @@ p a:hover {
   max-width: 100px;
 }
 
+/* Track Pages */
+/* .compressed-section {
+  display:none;
+} */
+
 /* Footer */
 footer {
   font-size: .9em;
