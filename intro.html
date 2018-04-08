@@ -50,6 +50,48 @@
         <div class="col-md-12">
           <h4>Week 1: Git, HTML and CSS</h4>
         </div>
+        <div class="col-12">
+          <div class="panel panel-default">
+            <div class="panel-heading bg-commandline">Command Line<img src="img/desktop.svg" alt="desktop graphic"></div>
+            <div class="panel-body">
+              <h4>Basic Terminal Commands</h4>
+              <h5>$ cd [folder name]</h5>
+              <p>Enter cd to change the directory, cd .. will take you to the parent directory, cd ~ will take you to the home directory</p>
+              <h5>$ pwd</h5>
+              <p>Enter pwd to print the working directory, or your current location</p>
+              <h5>$ ls</h5>
+              <p>Enter ls to view the files and folders of your current location. If you enter ls -a this will show you hidden files and folders.</p>
+              <h5>$ touch [file name]</h5>
+              <p>Enter touch to create a file, if you want to create a file inside of an existing folder, enter touch folder/file name</p>
+              <h5>$ mkdir [folder name]</h5>
+              <p>Enter mkdir to make a directory</p>
+              <h5>$ rm [file or folder name]</h5>
+              <p>Enter rm to remove a file or folder, if you are removing a directory, you will need to enter rm -r [folder name], the "r" stands for recursive, which tells the terminal to delete the folder and any files or subfolders that it contains</p>
+              <h5>$ mv [current file or folder name] [new file or folder name]</h5>
+              <p>Enter mv and specify the current and desired name to move and/or rename a file or folder</p>
+              <h4>Git Commands</h4>
+              <h5>$ touch .pairs</h5>
+              <p>For pair programming, you will need to create the .pairs file in the home directory, enter cd ~ to navigate to the home directory before creating the .pairs file. Open the file in Atom by entering atom .pairs after creating the file. In the .pairs file, follow this format:<br><br>pairs:<br>&nbsp;&nbsp;user 1's initials: user 1's full name<br>&nbsp;&nbsp;user 2's initials: user 2's full name<br>email:<br>&nbsp;&nbsp;user 1's initials: user 1's email address<br>&nbsp;&nbsp;user 2's initials: user 2's email address</p>
+              <h5>$ git config --global user.name "user's full name"</h5>
+              <h5>$ git config --global user.email "user's email address"</h5>
+              <p>Enter these commands on Fridays if you use the computers in the classroom for your solo projects, this information is used when you make commits</p>
+              <h5>$ git init</h5>
+              <p>Enter git init to a new Git repository, this command should be run inside of the folder that you create for your project</p>
+              <h5>$ remote add [remote name] [url for online Git repo]</h5>
+              <p>Enter this command to designate a name and remote repository, you will use this for pushing your changes to the reposity on the GitHub website, if you need to see a list of the remotes currently set up in the folder, enter git remote -v</p>
+              <h5>$ git add .</h5>
+              <p>Enter this command to add all changes in the working directory to the staging area. This needs to be done before making a commit</p>
+              <h5>$ git status</h5>
+              <p>Enter this command to see the state of the working directory and staging area</p>
+              <h5>$ git-pair-commit -m "commit message"</h5>
+              <p>Enter this command to commit the changes that were added to the staging area, using git-pair-commit will use the information from the .pairs file and alternate credit for a commit between the two users. Commit messages should be written in present tense and logically flow after the statement "This will..." When working solo just enter git commit -m "commit message"</p>
+              <h5>$ git log</h5>
+              <p>Enter this command to see a list of the past commits and their messages</p>
+              <h5>$ git push [remote name] [branch name]</h5>
+              <p>Enter this command to push committed changes from your local repository stored on the computer to a remote repository on the GitHub website</p>
+            </div>
+          </div>
+        </div>
       </div>
       <div class="row">
         <div class="col-md-12">
