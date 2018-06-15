@@ -20,6 +20,24 @@ Is there anything about searching for and transitioning into your future career 
 
 * Knowing more about what it is like working in development through my internship and finding my first full-time opportunity to prove myself. I am confident in my ability to learn because I am dedicated and have a strong work ethic, I just need someone to give me a chance.
 
+## Make a Plan
+
+Quality over quantity. In this age of constant distraction it's less common to see someone focus on producing things that are high quality and seeing things through to completion.
+
+* Start and finish Epicodus React curriculum (focus on learning while I'm in school)
+
+* Build my capstone project https://github.com/william-chu/epicodus-capstone
+
+* Internship (focus on learning and being present)
+
+* Reach out to friends in the industry and go to meetups during the internship
+
+* Begin job hunting, continue to study and build things using this repo as a jumping off point https://github.com/sdmg15/Best-websites-a-programmer-should-visit
+
+* Polish capstone project, prep for demo day if needed
+
+* If things don't happen right away, keep a positive mindset and remain patient
+
 ## Setup/Installation Requirements
 
 * To view project code, _clone repository from_ https://github.com/william-chu/epicodus-journal
