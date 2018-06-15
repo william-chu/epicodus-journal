@@ -40,7 +40,9 @@ Quality over quantity. In this age of constant distraction, it's less common to 
 
 ## Work
 
-* Polish my portfolio site https://william-chu.github.io/
+* Polish my portfolio site (replaced masthead with svg animation to increase contrast and decrease the size of the image) https://william-chu.github.io/
+
+* Work on JavaScript exercises
 
 ## Setup/Installation Requirements
 
