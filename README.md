@@ -20,9 +20,9 @@ Is there anything about searching for and transitioning into your future career 
 
 * Knowing more about what it is like working in development through my internship and finding my first full-time opportunity to prove myself. I am confident in my ability to learn because I am dedicated and have a strong work ethic, I just need someone to give me a chance.
 
-## Make a Plan
+## Roadmap
 
-Quality over quantity. In this age of constant distraction, it's less common to see someone focus on producing things that are high quality and seeing things through to completion.
+Focus on quality over quantity. In this age of constant distraction, it's less common to see someone focus on producing things that are high quality and seeing things through to completion.
 
 * Start and finish Epicodus React curriculum (focus on learning while I'm in school)
 
@@ -40,7 +40,7 @@ Quality over quantity. In this age of constant distraction, it's less common to 
 
 ## Work
 
-* Polish my portfolio site (replaced masthead with svg animation to increase contrast and decrease the size of the image) https://william-chu.github.io/
+* Polish my portfolio site (replaced masthead with svg animation to increase contrast and decrease load time) https://william-chu.github.io/
 
 * Work on JavaScript exercises
   * Signed up for freeCodeCamp > JavaScript curriculum
