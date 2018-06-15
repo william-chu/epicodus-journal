@@ -50,6 +50,15 @@ Focus on quality over quantity. In this age of constant distraction, it's less c
 * Read articles
   * https://www.theatlantic.com/technology/archive/2015/09/you-dont-have-to-be-good-at-math-to-learn-to-code/403342/
 
+
+* Make business card design for demo day
+  * design: from moo.com (Deco dots)
+  * fonts: Trade Gothic LT Pro, Alternate Gothic 2
+
+| Front | Back |
+| ----- | ---- |
+| ![Business Card Front](https://github.com/william-chu/epicodus-journal/blob/master/img/cardfront.png?raw=true) | ![Business Card Back](https://github.com/william-chu/epicodus-journal/blob/master/img/cardback.png?raw=true) |
+
 ## Setup/Installation Requirements
 
 * To view project code, _clone repository from_ https://github.com/william-chu/epicodus-journal
