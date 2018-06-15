@@ -43,6 +43,12 @@ Quality over quantity. In this age of constant distraction, it's less common to 
 * Polish my portfolio site (replaced masthead with svg animation to increase contrast and decrease the size of the image) https://william-chu.github.io/
 
 * Work on JavaScript exercises
+  * Signed up for freeCodeCamp > JavaScript curriculum
+  * Begin ES6 challenges to brush up on JS knowledge
+
+
+* Read articles
+  * https://www.theatlantic.com/technology/archive/2015/09/you-dont-have-to-be-good-at-math-to-learn-to-code/403342/
 
 ## Setup/Installation Requirements
 
