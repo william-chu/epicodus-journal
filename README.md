@@ -22,21 +22,25 @@ Is there anything about searching for and transitioning into your future career 
 
 ## Make a Plan
 
-Quality over quantity. In this age of constant distraction it's less common to see someone focus on producing things that are high quality and seeing things through to completion.
+Quality over quantity. In this age of constant distraction, it's less common to see someone focus on producing things that are high quality and seeing things through to completion.
 
 * Start and finish Epicodus React curriculum (focus on learning while I'm in school)
 
 * Build my capstone project https://github.com/william-chu/epicodus-capstone
 
-* Internship (focus on learning and being present)
+* Internship (focus on learning, making positive contributions and being present)
 
-* Reach out to friends in the industry and go to meetups during the internship
+* Reach out to friends in the industry and go to meetups during the internship to cultivate possible job opportunities
 
 * Begin job hunting, continue to study and build things using this repo as a jumping off point https://github.com/sdmg15/Best-websites-a-programmer-should-visit
 
 * Polish capstone project, prep for demo day if needed
 
 * If things don't happen right away, keep a positive mindset and remain patient
+
+## Work
+
+* Polish my portfolio site https://william-chu.github.io/
 
 ## Setup/Installation Requirements
 
