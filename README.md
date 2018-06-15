@@ -41,6 +41,7 @@ Focus on quality over quantity. In this age of constant distraction, it's less c
 ## Work
 
 * Polish my portfolio site (replaced masthead with svg animation to increase contrast and decrease load time) https://william-chu.github.io/
+  * Optimize project screenshots to decrease loading time
 
 * Work on JavaScript exercises
   * Signed up for freeCodeCamp > JavaScript curriculum
@@ -57,7 +58,17 @@ Focus on quality over quantity. In this age of constant distraction, it's less c
 
 | Front | Back |
 | ----- | ---- |
-| ![Business Card Front](https://github.com/william-chu/epicodus-journal/blob/master/img/cardfront.png?raw=true) | ![Business Card Back](https://github.com/william-chu/epicodus-journal/blob/master/img/cardback.png?raw=true) |
+| ![Business Card Front](https://github.com/william-chu/epicodus-journal/blob/master/img/cardfront.png?raw=true) | ![Business Card Reverse](https://github.com/william-chu/epicodus-journal/blob/master/img/cardreverse.png?raw=true) |
+
+## Reflection & Next Steps
+
+Do you feel like you made improvement today? Are you more confident and comfortable in one or more areas? Why or why not?
+
+* I don't think I made any significant improvement today since it was just one day, but I know where I need to focus my efforts.
+
+Where are you at now? What are your next steps? What do you still need to accomplish to feel confident and prepared to begin your eventual job search?
+
+* Keep coding and learning through self-study and freeCodeCamp modules
 
 ## Setup/Installation Requirements
 
